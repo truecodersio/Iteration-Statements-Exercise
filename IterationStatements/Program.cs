@@ -7,7 +7,7 @@
 
         //Write a method that will print to the console numbers 3 through 999 by 3 each time
 
-        //Write a method to accept two integers as parameterss and check whether they are equal or not
+        //Write a method to accept two integers as parameters and check whether they are equal or not
         
         //Write a method to check whether a given number is even or odd
         
